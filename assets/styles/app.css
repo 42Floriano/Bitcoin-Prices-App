@@ -1,0 +1,66 @@
+html,
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+.row {
+}
+.row-section {
+  float: left;
+  width: 100%;
+}
+
+.formElem {
+  margin-bottom: 12px;
+}
+
+.form-group {
+  padding-top: 10px;
+  margin: 50px auto;
+}
+.formOne {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 10px 10px;
+  margin: 0px 10px 10px;
+}
+.formOne p {
+  margin-bottom: 0px;
+}
+
+.graph {
+  border: 0.5pt solid rgb(198, 213, 241);
+  width: 810px;
+  height: 500px;
+}
+
+.row-section h2 {
+  float: left;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  margin-top: 40px;
+  margin-bottom: 60x;
+  font-size: 11px;
+}
+.row-section h2 span {
+  display: block;
+  font-size: 45px;
+  text-transform: none;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  font-weight: 600;
+}
+
+.formBit {
+  padding: 100px;
+}
+
+.pAbout {
+  padding-top: 100px;
+}
+
+.fa-spin {
+  padding: auto auto;
+  margin: 225px auto;
+}
